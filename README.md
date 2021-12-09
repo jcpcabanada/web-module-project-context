@@ -30,6 +30,7 @@ In this project you'll take take an almost completed e-commerce store and refact
 
 ### Task 2: MVP
 
+[comment]: <> (here)
 Before you get started, please take a few minutes and get acquainted with this application. Understand what's going on and how it's working.
 
 - If you look in the `App.js` you'll notice there are currently two state properties - `products` to keep track of all available products, and `cart` that will keep track of all the items in our `cart`.
